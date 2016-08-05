@@ -1,0 +1,24 @@
+{
+  "name": "react-charts-chartjs",
+  "version": "1.0.0",
+  "description": "React wrapper to chartjs charts",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shmilky/react-charts-chartjs.git"
+  },
+  "keywords": [
+    "reactjs",
+    "chartjs",
+    "line-chart"
+  ],
+  "author": "Shmilky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shmilky/react-charts-chartjs/issues"
+  },
+  "homepage": "https://github.com/shmilky/react-charts-chartjs#readme"
+}

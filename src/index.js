@@ -74,8 +74,6 @@ module.exports = React.createClass({
     },
 
     render() {
-        return (
-            <canvas style={{width: '100%', height: '100%'}} id={this.props.chartId}/>
-        );
+        return React.createElement('canvas', { style: { width: '100%', height: '100%' }, id: this.props.chartId });
     }
 });
